@@ -1,0 +1,110 @@
+margin-bottomody, html
+{
+    background-color: #EDEDED !important;
+}
+
+.intro
+{
+    text-align: center;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    margin-bottom: 50px;
+}
+
+.intro h1
+{
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.intro h5
+{
+    text-transform: uppercase;
+    background-color: #f5f5f5;
+    padding: 10px;
+    color: #333333;
+    display: inline-block;
+    font-size: 1.2rem;
+}
+
+.about .col
+{
+    margin-bottom: 24px;
+}
+
+.about h5
+{                                                           
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.about h6
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.about hr
+{
+    width: 40px;
+    margin-bottom: 25px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+}
+
+
+.about .card                                                                                                                                                                                                                                                                                                                        
+{
+    text-align: center;
+}
+.about p{
+    font-size: 17px;
+}
+
+.portfolio .col
+{
+    margin-bottom: 24px;
+}
+
+.portfolio h5
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.portfolio h6
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.portfolio hr
+{
+    width: 40px;
+    margin-bottom: 25px;
+}
+
+.portfolio .portfolio-holder
+{
+    clear: both;
+    text-align: center;
+}
+
+.move-to-top {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin-right: 5em;
+    margin-bottom: 5em;
+    display: none;
+}
+
+.technoheading{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.skills img{
+    padding: 5px;
+}
