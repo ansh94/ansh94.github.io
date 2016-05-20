@@ -1,3 +1,3 @@
 # My Personal Website
 
-This is my personal webiste hosted on Github pages.
+This is my personal website hosted on Github pages.
